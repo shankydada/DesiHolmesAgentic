@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FoodZone - Delivery & Reservations</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+    }
+    header {
+      background-color: #ff5e5e;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #fff;
+      padding: 10px;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    nav a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+    section {
+      max-width: 1000px;
+      margin: 20px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    h2 {
+      color: #ff5e5e;
+    }
+    form input, form select, form textarea {
+      display: block;
+      margin: 10px 0;
+      padding: 10px;
+      width: 100%;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    form button {
+      padding: 10px 20px;
+      background-color: #ff5e5e;
+      border: none;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    .order-status {
+      padding: 10px;
+      background: #eee;
+      margin: 10px 0;
+      border-left: 5px solid #ff5e5e;
+    }
+    .review {
+      border-top: 1px solid #ddd;
+      padding: 10px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🍽️ FoodZone</h1>
+    <p>Your go-to app for food delivery & restaurant reservations</p>
+  </header>
+
+  <nav>
+    <a href="#order-tracking">Order Tracking</a>
+    <a href="#reservation">Reserve a Table</a>
+    <a href="#reviews">Reviews</a>
+  </nav>
+
+  <!-- Order Tracking Section -->
+  <section id="order-tracking">
+    <h2>🚚 Real-Time Order Tracking</h2>
+    <input type="text" placeholder="Enter your order ID..." />
+    <div class="order-status">
+      <strong>Status:</strong> Your order is being prepared 🍳
+    </div>
+  </section>
+
+  <!-- Table Reservation Section -->
+  <section id="reservation">
+    <h2>📅 Reserve a Table</h2>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Email Address" required />
+      <input type="tel" placeholder="Phone Number" required />
+      <input type="date" required />
+      <input type="time" required />
+      <select>
+        <option value="">Select Restaurant</option>
+        <option value="The Tasty Bites">The Tasty Bites</option>
+        <option value="Urban Spice">Urban Spice</option>
+        <option value="Olive Garden">Olive Garden</option>
+      </select>
+      <textarea placeholder="Any special request?"></textarea>
+      <button type="submit">Book Now</button>
+    </form>
+  </section>
+
+  <!-- Reviews Section -->
+  <section id="reviews">
+    <h2>⭐ Restaurant Reviews</h2>
+
+    <div class="review">
+      <strong>Ritika</strong>: "Delicious food and great ambiance!" 🌟🌟🌟🌟🌟
+    </div>
+    <div class="review">
+      <strong>Arjun</strong>: "Prompt delivery and hot food. Loved it!" 🌟🌟🌟🌟
+    </div>
+    <div class="review">
+      <strong>Megha</strong>: "Nice service but a bit pricey." 🌟🌟🌟
+    </div>
+
+    <h3>Leave a Review</h3>
+    <form>
+      <input type="text" placeholder="Your Name" />
+      <textarea placeholder="Write your review here..."></textarea>
+      <button type="submit">Submit Review</button>
+    </form>
+  </section>
+
+</body>
+</html>
