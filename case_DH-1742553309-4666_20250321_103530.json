@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "case_id": "DH-1742553309-4666",
+    "timestamp": "2025-03-21T10:35:09.776320",
+    "categories": [
+      [
+        "theft",
+        0.5954270076817256
+      ],
+      [
+        "murder",
+        0.38447208590662413
+      ]
+    ]
+  },
+  "inputs": {
+    "description": "\n    The museum's prized Ming vase was discovered missing this morning. The display case was still locked, the alarm system was armed, and security cameras show no one entering or leaving the exhibit room between closing time at 6 PM last night and opening at 9 AM today. The only authorized people who entered were the night guard John Smith on his regular rounds at 10 PM, 1 AM, and 4 AM, and the custodian Maria Garcia at 7 AM. The vase was definitely present during the guard's 4 AM check. The security system logs show no alerts or failures.\n\n    The display case itself showed no signs of tampering. The museum director mentioned that a similar vase in the same exhibit was verified as authentic by expert Dr. Li Wei just last week, who remarked on its exceptional quality.\n\n    When questioned, both the guard and custodian claimed they saw nothing unusual. The guard mentioned that he heard some strange noises around 3 AM but attributed them to the building's old heating system.\n    ",
+    "follow_up_responses": {}
+  },
+  "analysis": {
+    "perceptions": {
+      "people": [],
+      "places": [],
+      "objects": [],
+      "timeline": [],
+      "inconsistencies": [],
+      "raw": "<generator object Assistant._run at 0x78512a3b25c0>",
+      "observations": []
+    },
+    "connections": {
+      "strong_connections": [],
+      "possible_connections": [],
+      "anomalies": [],
+      "raw": "<generator object Assistant._run at 0x78512a3b25c0>"
+    },
+    "simulations": {
+      "scenarios": [],
+      "probability_estimates": {},
+      "raw": "<generator object Assistant._run at 0x78512a3b2980>"
+    },
+    "patterns": {
+      "identified_patterns": [],
+      "historical_matches": [],
+      "anomalous_patterns": [],
+      "raw": "<generator object Assistant._run at 0x78512a3b25c0>"
+    },
+    "information_gaps": {
+      "critical_questions": [
+        "Can you provide more details about the timeline of events?",
+        "Are there any security cameras or other surveillance devices that might have recorded relevant information?",
+        "Were there any witnesses who might have observed something unusual?",
+        "Has the victim or subject had any recent conflicts or unusual behavior?",
+        "Are there any unusual financial transactions or communications that might be relevant?"
+      ],
+      "assumptions_made": [],
+      "raw": "<generator object Assistant._run at 0x78512a3b25c0>"
+    },
+    "historical_comparisons": {
+      "similar_cases": [
+        {
+          "id": "CASE-44510",
+          "title": "The Strange Theft of New York",
+          "year": 1989,
+          "similarity": 0.6019004124860844,
+          "key_pattern": "Inside job patterns",
+          "solution_type": "Technical trick"
+        },
+        {
+          "id": "CASE-72512",
+          "title": "The Strange Theft of Tokyo",
+          "year": 1930,
+          "similarity": 0.5350225888765195,
+          "key_pattern": "Replacement with forgeries",
+          "solution_type": "Opportunity exploitation"
+        },
+        {
+          "id": "CASE-71987",
+          "title": "The Peculiar Theft of New York",
+          "year": 2020,
+          "similarity": 0.46814476526695453,
+          "key_pattern": "Social engineering techniques",
+          "solution_type": "Technical trick"
+        },
+        {
+          "id": "CASE-75662",
+          "title": "The Strange Murder of Tokyo",
+          "year": 1955,
+          "similarity": 0.39778053472006114,
+          "key_pattern": "Unknown pattern",
+          "solution_type": "Psychological manipulation"
+        },
+        {
+          "id": "CASE-75121",
+          "title": "The Peculiar Murder of London",
+          "year": 1954,
+          "similarity": 0.3535826975289433,
+          "key_pattern": "Unknown pattern",
+          "solution_type": "Insider betrayal"
+        }
+      ],
+      "key_differences": [],
+      "raw": "<generator object Assistant._run at 0x78512a3b25c0>"
+    }
+  },
+  "hypotheses": {
+    "list": [],
+    "evaluation_criteria": [
+      "confirming evidence",
+      "contradictory evidence",
+      "explanatory power",
+      "alternative explanations"
+    ],
+    "bayesian_analysis": {},
+    "raw": "<generator object Assistant._run at 0x78512a3b2980>"
+  },
+  "conclusion": {
+    "best_hypothesis": "",
+    "confidence_level": 80.0,
+    "alternative_possibilities": [],
+    "remaining_uncertainties": [],
+    "knowledge_context": "",
+    "narrative": {
+      "chronology": [],
+      "motivations": {},
+      "key_moments": [],
+      "raw": "<generator object Assistant._run at 0x78512a3b2980>"
+    },
+    "solution": "<generator object Assistant._run at 0x78512a3b2980>"
+  }
+}
