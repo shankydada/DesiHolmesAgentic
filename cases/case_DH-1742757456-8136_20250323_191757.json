@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "case_id": "DH-1742757456-8136",
+    "timestamp": "2025-03-23T19:17:36.285179",
+    "categories": [
+      [
+        "theft",
+        0.6756226592223268
+      ],
+      [
+        "murder",
+        0.4982717991305773
+      ]
+    ]
+  },
+  "inputs": {
+    "description": "\n    A wealthy businessman was found dead in his study, locked from the inside. \n    The police suspect foul play, but the only evidence is a broken window and a missing safe.\n    ",
+    "follow_up_responses": {}
+  },
+  "analysis": {
+    "perceptions": {
+      "people": [],
+      "places": [],
+      "objects": [],
+      "timeline": [],
+      "inconsistencies": [],
+      "raw": "<generator object Assistant._run at 0x7c9de56d25c0>",
+      "observations": []
+    },
+    "connections": {
+      "strong_connections": [],
+      "possible_connections": [],
+      "anomalies": [],
+      "raw": "<generator object Assistant._run at 0x7c9de56d25c0>"
+    },
+    "simulations": {
+      "scenarios": [],
+      "probability_estimates": {},
+      "raw": "<generator object Assistant._run at 0x7c9de56d2980>"
+    },
+    "patterns": {
+      "identified_patterns": [],
+      "historical_matches": [],
+      "anomalous_patterns": [],
+      "raw": "<generator object Assistant._run at 0x7c9de56d25c0>"
+    },
+    "information_gaps": {
+      "critical_questions": [
+        "Can you provide more details about the timeline of events?",
+        "Are there any security cameras or other surveillance devices that might have recorded relevant information?",
+        "Were there any witnesses who might have observed something unusual?",
+        "Has the victim or subject had any recent conflicts or unusual behavior?",
+        "Are there any unusual financial transactions or communications that might be relevant?"
+      ],
+      "assumptions_made": [],
+      "raw": "<generator object Assistant._run at 0x7c9de56d25c0>"
+    },
+    "historical_comparisons": {
+      "similar_cases": [
+        {
+          "id": "CASE-63487",
+          "title": "The Mysterious Theft of Tokyo",
+          "year": 2004,
+          "similarity": 0.40069130714856893,
+          "key_pattern": "Social engineering techniques",
+          "solution_type": "Opportunity exploitation"
+        },
+        {
+          "id": "CASE-19770",
+          "title": "The Strange Theft of London",
+          "year": 1938,
+          "similarity": 0.356170050798728,
+          "key_pattern": "Inside job patterns",
+          "solution_type": "Psychological manipulation"
+        },
+        {
+          "id": "CASE-11104",
+          "title": "The Peculiar Murder of London",
+          "year": 2009,
+          "similarity": 0.3419768795444403,
+          "key_pattern": "Staged crime scenes",
+          "solution_type": "Psychological manipulation"
+        },
+        {
+          "id": "CASE-10374",
+          "title": "The Strange Theft of Paris",
+          "year": 1908,
+          "similarity": 0.31164879444888693,
+          "key_pattern": "Technical vulnerability exploitation",
+          "solution_type": "Deception"
+        },
+        {
+          "id": "CASE-42694",
+          "title": "The Mysterious Murder of New York",
+          "year": 1948,
+          "similarity": 0.3039794484839469,
+          "key_pattern": "Alibi deception",
+          "solution_type": "Psychological manipulation"
+        }
+      ],
+      "key_differences": [],
+      "raw": "<generator object Assistant._run at 0x7c9de56d25c0>"
+    }
+  },
+  "hypotheses": {
+    "list": [],
+    "evaluation_criteria": [],
+    "bayesian_analysis": {},
+    "raw": "<generator object Assistant._run at 0x7c9de56d2980>",
+    "evaluation": "<generator object Assistant._run at 0x7c9de56d2980>"
+  },
+  "conclusion": {
+    "best_hypothesis": "",
+    "confidence_level": 0,
+    "alternative_possibilities": [],
+    "remaining_uncertainties": [],
+    "knowledge_context": "",
+    "narrative": {
+      "chronology": [],
+      "motivations": {},
+      "key_moments": [],
+      "raw": "<generator object Assistant._run at 0x7c9de56d2980>"
+    },
+    "solution": "Solution could not be clearly extracted from the analysis."
+  }
+}

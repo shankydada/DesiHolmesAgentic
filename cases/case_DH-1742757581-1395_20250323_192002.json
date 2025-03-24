@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "case_id": "DH-1742757581-1395",
+    "timestamp": "2025-03-23T19:19:41.619728",
+    "categories": [
+      [
+        "theft",
+        0.47558015227266975
+      ],
+      [
+        "murder",
+        0.3961887039525907
+      ]
+    ]
+  },
+  "inputs": {
+    "description": "\n    A wealthy businessman was found dead in his study, locked from the inside. \n    The police suspect foul play, but the only evidence is a broken window and a missing safe.\n    ",
+    "follow_up_responses": {}
+  },
+  "analysis": {
+    "perceptions": {
+      "people": [],
+      "places": [],
+      "objects": [],
+      "timeline": [],
+      "inconsistencies": [],
+      "raw": "<generator object Assistant._run at 0x6fffb0d9e5c0>",
+      "observations": []
+    },
+    "connections": {
+      "strong_connections": [],
+      "possible_connections": [],
+      "anomalies": [],
+      "raw": "<generator object Assistant._run at 0x6fffb0d9e5c0>"
+    },
+    "simulations": {
+      "scenarios": [],
+      "probability_estimates": {},
+      "raw": "<generator object Assistant._run at 0x6fffb0d9e980>"
+    },
+    "patterns": {
+      "identified_patterns": [],
+      "historical_matches": [],
+      "anomalous_patterns": [],
+      "raw": "<generator object Assistant._run at 0x6fffb0d9e5c0>"
+    },
+    "information_gaps": {
+      "critical_questions": [
+        "Can you provide more details about the timeline of events?",
+        "Are there any security cameras or other surveillance devices that might have recorded relevant information?",
+        "Were there any witnesses who might have observed something unusual?",
+        "Has the victim or subject had any recent conflicts or unusual behavior?",
+        "Are there any unusual financial transactions or communications that might be relevant?"
+      ],
+      "assumptions_made": [],
+      "raw": "<generator object Assistant._run at 0x6fffb0d9e5c0>"
+    },
+    "historical_comparisons": {
+      "similar_cases": [
+        {
+          "id": "CASE-57286",
+          "title": "The Baffling Murder of Paris",
+          "year": 1916,
+          "similarity": 0.5315510523800612,
+          "key_pattern": "Alibi deception",
+          "solution_type": "Insider betrayal"
+        },
+        {
+          "id": "CASE-92516",
+          "title": "The Baffling Theft of London",
+          "year": 1966,
+          "similarity": 0.47926074113408706,
+          "key_pattern": "Technical vulnerability exploitation",
+          "solution_type": "Insider betrayal"
+        },
+        {
+          "id": "CASE-93286",
+          "title": "The Peculiar Murder of London",
+          "year": 1960,
+          "similarity": 0.47248982433783215,
+          "key_pattern": "Alibi deception",
+          "solution_type": "Deception"
+        },
+        {
+          "id": "CASE-54245",
+          "title": "The Strange Theft of Paris",
+          "year": 1932,
+          "similarity": 0.4260095476747441,
+          "key_pattern": "Replacement with forgeries",
+          "solution_type": "Technical trick"
+        },
+        {
+          "id": "CASE-86774",
+          "title": "The Peculiar Murder of London",
+          "year": 1956,
+          "similarity": 0.41342859629560313,
+          "key_pattern": "Disguised cause of death",
+          "solution_type": "Opportunity exploitation"
+        }
+      ],
+      "key_differences": [],
+      "raw": "<generator object Assistant._run at 0x6fffb0d9e5c0>"
+    }
+  },
+  "hypotheses": {
+    "list": [],
+    "evaluation_criteria": [],
+    "bayesian_analysis": {},
+    "raw": "<generator object Assistant._run at 0x6fffb0d9e980>",
+    "evaluation": "<generator object Assistant._run at 0x6fffb0d9e980>"
+  },
+  "conclusion": {
+    "best_hypothesis": "",
+    "confidence_level": 0,
+    "alternative_possibilities": [],
+    "remaining_uncertainties": [],
+    "knowledge_context": "",
+    "narrative": {
+      "chronology": [],
+      "motivations": {},
+      "key_moments": [],
+      "raw": "<generator object Assistant._run at 0x6fffb0d9e980>"
+    },
+    "solution": "Solution could not be clearly extracted from the analysis."
+  }
+}

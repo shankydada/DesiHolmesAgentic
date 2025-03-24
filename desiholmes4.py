@@ -796,7 +796,7 @@ Then provide an OVERALL ASSESSMENT indicating which hypothesis best explains all
         self.case_data["hypotheses"]["evaluation"] = evaluator_result["raw"]
 
         # Extract Bayesian analysis if possible
-                # Extract Bayesian analysis if possible
+        # Extract Bayesian analysis if possible
         hypothesis_evaluations = {}
         for hypothesis in self.case_data["hypotheses"]["list"]:
             number = hypothesis["number"]
